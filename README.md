@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=offlcial&show_icons=true&count_private=true&theme=dark" width="260"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=offlcial&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -67,13 +67,13 @@
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
+📍 **Avanade** - Krasnoyarsk, Russia
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+📍 **Squadra Digital** - Krasnoyarsk, Russia
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
@@ -85,7 +85,7 @@
 
 - 👨‍💻 **CIO and Cross Mobile Developer**\
 📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
+📍 **Infinitus Solutions** - Krasnoyarsk, Russia
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -95,7 +95,7 @@
 
 - 👨‍💻 **Systems Analyst and Front End Developer**\
 📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
+📍 **Web Works** - Krasnoyarsk, Russia
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
@@ -105,7 +105,7 @@
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
+📍 **Energisa** - Krasnoyarsk, Russia
 
 <!--## Skills
 
