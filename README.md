@@ -73,7 +73,7 @@
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - jun/2021\
-📍 **Squadra Digital** - Krasnoyarsk, Russia
+📍 **Whoosh** - Krasnoyarsk, Russia
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
