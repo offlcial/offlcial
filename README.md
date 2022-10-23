@@ -60,14 +60,14 @@
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Founder "NAIL Ltd."**\
-📆 2021 - moment\
+📆 2018 - moment\
 📍 **Krasnoyarsk** - Russia
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - oct/2021\
-📍 **Avanade** - Krasnoyarsk, Russia
+📍 **Ситилинк** - Krasnoyarsk, Russia
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
