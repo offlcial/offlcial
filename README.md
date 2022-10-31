@@ -85,7 +85,7 @@
 
 - 👨‍💻 **CIO and Cross Mobile Developer**\
 📆 2016 - 2021\
-📍 **Infinitus Solutions** - Krasnoyarsk, Russia
+📍 **Yota Skartel** - Krasnoyarsk, Russia
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -95,7 +95,7 @@
 
 - 👨‍💻 **Systems Analyst and Front End Developer**\
 📆 2015 - 2016\
-📍 **Web Works** - Krasnoyarsk, Russia
+📍 **NEXVIO** - Krasnoyarsk, Russia
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
