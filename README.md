@@ -105,7 +105,7 @@
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **Energisa** - Krasnoyarsk, Russia
+📍 **MIGO** - Krasnoyarsk, Russia
 
 <!--## Skills
 
