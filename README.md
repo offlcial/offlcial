@@ -105,7 +105,7 @@
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **MIGO** - Krasnoyarsk, Russia
+📍 **SoundBeats** - Krasnoyarsk, Russia
 
 <!--## Skills
 
