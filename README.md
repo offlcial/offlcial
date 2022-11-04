@@ -105,7 +105,7 @@
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **SoundBeats** - Krasnoyarsk, Russia
+📍 **FLAT** - Krasnoyarsk, Russia
 
 <!--## Skills
 
