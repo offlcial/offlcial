@@ -105,7 +105,7 @@
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **FLAT** - Krasnoyarsk, Russia
+📍 **FLAT CLUB** - Krasnoyarsk, Russia
 
 <!--## Skills
 
