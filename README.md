@@ -95,7 +95,7 @@
 
 - 👨‍💻 **Systems Analyst and Front End Developer**\
 📆 2015 - 2016\
-📍 **NEXVIO** - Krasnoyarsk, Russia
+📍 **NEXVIO Software** - Krasnoyarsk, Russia
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
