@@ -46,7 +46,7 @@
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 My Resume</summary>
 
 
 ## Education
