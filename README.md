@@ -34,7 +34,7 @@
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github All Star ⭐</a>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github All Stars ⭐</a>
 </p>
 
 <!-- <details align='center'>
