@@ -51,7 +51,7 @@
 
 ## Education
 
-- 📖 **Web's and Mobile Development**\
+- 📖 **Web and Mobile Development**\
 📆 2015 - 2019\
 📍 **Siberian Federal University** - Krasnoyarsk, Russia
 
