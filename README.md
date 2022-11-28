@@ -105,7 +105,7 @@
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **FLAT CLUB** - Krasnoyarsk, Russia
+📍 **APOLLON** - Krasnoyarsk, Russia
 
 <!--## Skills
 
