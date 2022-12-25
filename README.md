@@ -55,7 +55,7 @@
 📆 2015 - 2019\
 📍 **Siberian Federal University** - Krasnoyarsk, Russia
 
-## Experiences
+## Experience
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
