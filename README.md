@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A ui-mobiles and .net developer from Siberia, Russia.
+  A ui-mobile and .nets developer from Siberia, Russia.
 </p>
 
 
