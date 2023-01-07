@@ -59,6 +59,12 @@
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
+- 👨‍💻 **Founder CEO at EDEM"**\
+📆 2023 - moment\
+📍 **Krasnoyarsk** - Russia  
+  
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
 - 👨‍💻 **Founder CEO at NAIL"**\
 📆 2018 - moment\
 📍 **Krasnoyarsk** - Russia
