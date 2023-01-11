@@ -49,7 +49,7 @@
   <summary>📃 My Resume</summary>
 
 
-## Educations
+## Education
 
 - 📖 **Web and Mobile Development**\
 📆 2015 - 2019\
