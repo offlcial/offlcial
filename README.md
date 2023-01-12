@@ -65,7 +65,7 @@
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Founder CEO at "NAIL"**\
+- 👨‍💻 **Founder CEO at "NAIL, LTD"**\
 📆 2018 - moment\
 📍 **Krasnoyarsk** - Russia
   
