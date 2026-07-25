@@ -8,19 +8,6 @@
   A ui-mobiles and .net developer from Siberia, Russia.
 </p>
 
-
-
-<p align='center'>
-  
-  <a href="https://www.vk.com/offlcial/">
-    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/_amiran002">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=offlcial&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
